@@ -1,4 +1,4 @@
-HTML
+HTML (LWC Component)
 .......................................................
 <template>
     <div if:true={showManageHCS} class="pageContainer">
